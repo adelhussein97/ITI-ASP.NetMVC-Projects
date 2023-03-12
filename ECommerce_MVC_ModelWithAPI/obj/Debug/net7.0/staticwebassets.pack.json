@@ -1,0 +1,705 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ECommerce_MVC_ModelWithAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ECommerce_MVC_ModelWithAPI.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\core.css",
+      "PackagePath": "staticwebassets\\css\\core.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\plugins\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\animate-slider.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate-slider.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\fonts\\slickd41d.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slickd41d.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\shortcode\\default.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\default.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\shortcode\\footer.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\footer.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\shortcode\\header.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\header.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\shortcode\\shortcodes.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\shortcodes.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\shortcode\\slider.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\slider.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\about\\4.png",
+      "PackagePath": "staticwebassets\\images\\about\\4.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\bg\\10.png",
+      "PackagePath": "staticwebassets\\images\\bg\\10.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\big-images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\big-images\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\big-images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\big-images\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\big-images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\big-images\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\big-images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\big-images\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\big-images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\big-images\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\bl-2\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bl-2\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\bl-2\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bl-2\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\bl-2\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bl-2\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\bl-2\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bl-2\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\bl-2\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bl-2\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\bl-2\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bl-2\\6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\7.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\8.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\blog-img\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-img\\9.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img-2\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img-2\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img-2\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img-2\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img-2\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img-2\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\blog\\sm-img\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sm-img\\6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\brand\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\brand\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\brand\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\brand\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\brand\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\comment\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\comment\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\comment\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\comment\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\comment\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\comment\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\icons\\line.png",
+      "PackagePath": "staticwebassets\\images\\icons\\line.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\icons\\play.png",
+      "PackagePath": "staticwebassets\\images\\icons\\play.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\icons\\select-option.png",
+      "PackagePath": "staticwebassets\\images\\icons\\select-option.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\10.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\11.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\13.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\14.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\15.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\16.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\latest-project\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\latest-project\\7.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\logo\\sinply-construction.png",
+      "PackagePath": "staticwebassets\\images\\logo\\sinply-construction.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\10.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\11.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\12.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\7.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\8.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-2\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-2\\9.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-3\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-3\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-3\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-3\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-3\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-3\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-3\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-3\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\lst-project-3\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\lst-project-3\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\1.png",
+      "PackagePath": "staticwebassets\\images\\others\\1.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\2.png",
+      "PackagePath": "staticwebassets\\images\\others\\2.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\3.png",
+      "PackagePath": "staticwebassets\\images\\others\\3.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\icon-2\\1.png",
+      "PackagePath": "staticwebassets\\images\\others\\icon-2\\1.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\icon-2\\2.png",
+      "PackagePath": "staticwebassets\\images\\others\\icon-2\\2.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\icon-2\\3.png",
+      "PackagePath": "staticwebassets\\images\\others\\icon-2\\3.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\others\\icon\\1.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\others\\icon\\2.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\others\\icon\\3.png",
+      "PackagePath": "staticwebassets\\images\\others\\icon\\3.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\7.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\8.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\small-img\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\small-img\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\small-img\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\small-img\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\small-img\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\small-img\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\service\\small-img\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\small-img\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\slider\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\bg\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\slider\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\bg\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\slider\\fornt-img\\1.png",
+      "PackagePath": "staticwebassets\\images\\slider\\fornt-img\\1.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\test\\client\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\test\\client\\1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\test\\client\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\test\\client\\2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\images\\test\\client\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\test\\client\\3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\vendor\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ECommerce_MVC_ModelWithAPI\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ECommerce_MVC_ModelWithAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ECommerce_MVC_ModelWithAPI.props",
+      "PackagePath": "build\\ECommerce_MVC_ModelWithAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerce_MVC_ModelWithAPI.props",
+      "PackagePath": "buildMultiTargeting\\ECommerce_MVC_ModelWithAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ECommerce_MVC_ModelWithAPI.props",
+      "PackagePath": "buildTransitive\\ECommerce_MVC_ModelWithAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

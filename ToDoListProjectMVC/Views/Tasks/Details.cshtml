@@ -1,0 +1,56 @@
+﻿@model ToDoListProjectMVC.Models.Tasks
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Tasks > Details</h2>
+
+<div>
+    <h4>Tasks</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd>
+            <select asp-for="Status" class="form-control"  asp-items="ViewBag.Status">
+            </select>
+           
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AssignDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AssignDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.User.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Category.Category)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index" class="htc__btn btn--theme">Back to List</a>
+</div>

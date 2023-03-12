@@ -1,0 +1,271 @@
+/*-----------------------------------------------------------------------------------
+  Template Name: Simply Construction HTML Template.
+  Template URI: #
+  Description: Simply Construction is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: DevItems
+  Version: 1.0
+-------------------------------------------------------------------------------------*/
+/*
+
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+
+
+*/
+
+
+/*----------------------------------
+  Header Top Area
+-------------------------------------*/
+
+.heaher__top__left {
+    align-items: center;
+    display: flex;
+    height: 45px;
+}
+.header__top__right {
+    align-items: center;
+    display: flex;
+    height: 45px;
+    justify-content: flex-end;
+}
+.login-register {
+    display: flex;
+    margin-right: 47px;
+}
+.heaher__top__left li {
+    color: #fff;
+    font-size: 12px;
+}
+.heaher__top__left li + li {
+    margin-left: 47px;
+}
+.heaher__top__left li i {
+    padding-right: 12px;
+}
+.login-register li a {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.login-register li.separator {
+    color: #fff;
+    padding: 0 10px;
+}
+.heaher__top__btn a {
+    align-items: center;
+    background: #fcc236 none repeat scroll 0 0;
+    color: #fff;
+    display: flex;
+    font-weight: 700;
+    height: 45px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+}
+.heaher__top__btn a:hover {
+    color: #060606;
+}
+
+
+/*----------------------------------------
+  Menu basic style
+------------------------------------------*/
+
+
+.header{
+  z-index: 10;
+  position: relative;
+}
+.main__menu {
+  display: flex;
+  justify-content: center;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.main__menu > li > a {
+  color: #1f2d30;
+  display: block;
+  font-family: Raleway;
+  font-size: 14px;
+  font-weight: 600;
+  height: 130px;
+  line-height: 130px;
+  position: relative;
+  text-transform: uppercase;
+}
+.main__menu li {
+  position: relative;
+}
+.main__menu > li:hover > a{
+  color: #fcc236;
+}
+.logo a{
+  display: block;
+}
+
+.logo {
+    height: 130px;
+    line-height: 130px;
+}
+.main__menu li {
+    padding: 0 15px;
+}
+.htc__header__search {
+    align-items: center;
+    display: flex;
+    height: 130px;
+    justify-content: flex-end;
+    position: relative;
+}
+.htc__header__search input {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background: transparent none repeat scroll 0 0;
+  border-color: currentcolor currentcolor #e1e1e1;
+  border-image: none;
+  border-style: none none solid;
+  border-width: 0 0 1px;
+  color: #bfbfbf;
+  line-height: 25px;
+  padding-bottom: 2px;
+  padding-right: 23px;
+  padding-top: 2px;
+  width: 100%;
+}
+.htc__header__search a i {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-53%);
+    transition: 0.4s;
+}
+.htc__header__search a i:hover{
+    color: #fcc236;
+}
+.htc__header__search i {
+    color: #bfbfbf;
+    font-size: 12px;
+}
+.htc__header__search input::-moz-placeholder {
+  color: #bfbfbf !important;
+}
+
+
+/*-----------------------------------------
+  Sticky  For  Header
+-------------------------------------------*/
+
+.sticky__header.scroll-header {
+  animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+  background: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  left: 0;
+  margin: 0 auto;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}
+.sticky__header.scroll-header .main__menu > li > a {
+  height: 70px;
+  line-height: 70px;
+}
+.sticky__header.scroll-header .logo {
+  height: 70px;
+  line-height: 70px;
+}
+.sticky__header.scroll-header .logo a img {
+  max-width: 123px;
+}
+.sticky__header.scroll-header .htc__header__search {
+  height: 70px;
+}
+
+
+
+
+
+
+.fluid-container.mobile-menu-container {
+  position: relative;
+}
+.mobile-logo {
+  align-items: center;
+  display: flex;
+  height: 52px;
+  left: 0;
+  padding-left: 15px;
+  position: absolute;
+  top: 0;
+  z-index: 2147483647;
+}
+.mobile-logo img {
+  max-height: 25px;
+}
+
+/*-----------------------------
+  Dropdown Menu
+--------------------------------*/
+.main__menu li.drop{
+    position: relative;
+}
+
+.main__menu li.drop ul.dropdown {
+  background: #ffffff none repeat scroll 0 0;
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.1);
+  left: 0;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+  position: absolute;
+  top: 120%;
+  transition: all 0.2s ease-in-out 0s;
+  visibility: hidden;
+  width: 220px;
+  z-index: 999;
+}
+
+.main__menu li.drop:hover ul.dropdown {
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
+}
+.main__menu ul.dropdown li {
+    border-bottom: 1px solid #f4f4f4;
+    display: block;
+    padding: 0;
+}
+.main__menu ul.dropdown li a {
+    background: #ffffff none repeat scroll 0 0;
+    color: #1f2d30;
+    display: block;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 12px 15px;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+}
+.main__menu li.drop ul.dropdown li:hover > a {
+    background: #fafafa none repeat scroll 0 0;
+    color: #fcc236;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,153 @@
+/*-----------------------------------------------------------------------------------
+  Template Name: Simply Construction HTML Template.
+  Template URI: #
+  Description: Simply Construction is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: DevItems
+  Version: 1.0
+-------------------------------------------------------------------------------------*/
+/*
+
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+
+
+*/
+/*-----------------------------
+	Footer Default
+------------------------------*/
+
+.htc__footer__wrap{
+	position: relative;
+	z-index: 2;
+}
+
+.ht__address__inner {
+    display: flex;
+}
+.ht__address__details p {
+    color: #fafafa;
+    font-size: 16px;
+    font-weight: 500;
+}
+.ht__address__icon i {
+  border: 1px solid #fafafa;
+  border-radius: 100%;
+  color: #fafafa;
+  font-size: 24px;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  transition: all 0.4s ease 0s;
+  width: 45px;
+}
+
+.ht__address__icon.map-pin i {
+  line-height: 43px;
+}
+
+
+.ht__address__icon.glob i {
+  line-height: 43px;
+}
+
+.ht__address__details {
+  margin-top: -2px;
+}
+.htc__contact__address {
+    padding: 56px 0;
+}
+.ht__address__icon {
+    margin-right: 20px;
+    min-width: 47px;
+}
+.ht__address__inner:hover .ht__address__icon i {
+    background: #fcc236 none repeat scroll 0 0;
+    border: 1px solid #fcc236;
+    color: #fff;
+}
+.htc__contact__wrap {
+	display: flex;
+	justify-content: space-between;
+}
+
+.ft__title {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 28px;
+    text-transform: uppercase;
+}
+.ft__details p {
+    color: #fff;
+    font-size: 14px;
+}
+.footer__link {
+    display: flex;
+}
+.ft__menu li a {
+    color: #ffffff;
+    font-size: 14px;
+    transition: 0.4s;
+}
+.ft__menu li a:hover{
+	color: #fcc236;
+}
+.footer__link ul.ft__menu + ul.ft__menu {
+    margin-left: 30px;
+}
+.ft__menu li + li {
+    padding-top: 13px;
+}
+.footer__instagram {
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: -5px;
+    margin-right: -6px;
+}
+.footer__instagram li {
+    margin-bottom: 10px;
+    padding: 0 5px;
+    width: 33.33%;
+}
+.footer__instagram li a img {
+    width: 100%;
+}
+.copyright {
+    padding: 15px 0;
+    text-align: center;
+}
+.copyright__inner p {
+    color: #1f2d30;
+    font-size: 14px;
+    font-weight: 600;
+}
+.copyright__inner p a {
+    color: #1f2d30;
+    padding: 0 3px;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s;
+}
+.copyright__inner p a:hover {
+    color: #fff;
+}
+.footer.quick__link {
+  left: 67px;
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

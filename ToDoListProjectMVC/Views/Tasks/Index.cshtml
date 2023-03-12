@@ -1,0 +1,124 @@
+﻿@model IEnumerable<ToDoListProjectMVC.Models.Tasks>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Tasks > Home</h2>
+<div class="card-footer text-end p-3 mb-4">
+    <a asp-action="Create" class="htc__btn btn--theme">Create Task</a>
+</div>
+<form asp-action="Index">
+
+<div id="sticky-header-with-topbar" class="mainmenu__wrap sticky__header">
+     <div class="row">
+        <div class="container">
+            
+            <div class="header__top__right">
+                <div class="htc__header__search">
+                    <input type="text" name="Filter" onchange="document.getElementById('btnSubmit').click();" placeholder="SEARCH">
+                    <a href="#"><i class="fa fa-search"></i></a>
+                </div>
+                <div class="heaher__top__btn">
+                    <select class="btn btn-warning" name="Status" onchange="document.getElementById('btnSubmit').click();" style="margin-left:10px">
+                        <option value="4" selected disabled>Filter With Status</option>
+                        <option value="0">Open</option>
+                        <option value="1">Close</option>
+                        <option value="2">In Progress</option>
+                        <option value="3">Done</option>
+                    </select>
+                </div>
+            </div>
+           
+        </div>
+       
+    </div>
+</div>
+    <input id="btnSubmit" hidden type="submit" value="submit" />
+</form>
+<section style="background-color: #eee; margin-top:15px">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-xl-10">
+
+                    <div class="card">
+                        <div class="card-header p-3">
+                            <h5 class="mb-0"><i class="fa fa-amilia me-2"></i>To Do Tasks List</h5>
+                        </div>
+                        <div class="card-body"
+                             style="position: relative; ">
+                        
+                            <table class="table mb-0">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Name</th>
+                                        <th scope="col">AssignDate</th>
+                                        <th scope="col">Description</th>
+                                        <th scope="col">Status</th>
+                                        <th scope="col">User Name</th>
+                                        <th scope="col">Task Category</th>
+                                        <th scope="col">Operations</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model) 
+                                    {
+                                        <tr class="fw-normal">
+                                            <th>
+                                                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-5.webp"
+                                                     class="shadow-1-strong rounded-any" alt="avatar 1"
+                                                     style="width: 55px; height: auto;">
+                                                <span class="ms-2">@item.Name</span>
+                                            </th>
+                                            <td class="align-middle">
+                                                <span>@item.AssignDate</span>
+                                            </td>
+                                            <td class="align-middle">
+                                                <span>@item.Description</span>
+                                            </td>
+                                            <td class="align-middle">
+                                                <h6 class="mb-0">
+                                            
+                                                    @switch (int.Parse(@item.Status))
+                                                    {
+                                                        case 0:
+                                                                <span class="btn btn-primary rounded-any">Open</span>
+                                                           break;
+                                                        case 1:
+                                                                <span class="btn btn-warning rounded-any">Close</span>
+                                                            break;
+                                                        case 2:
+                                                                <span class="btn btn-danger rounded-any">InProgress</span>
+                                                            break;
+                                                        default:
+                                                                <span class="btn btn-success rounded-any">Done</span>
+                                                           break;
+
+                                                    
+                                                    }
+                                                </h6>
+                                            </td>
+                                            <td class="align-middle">
+                                                <span>@item.User.Name</span>
+                                            </td>
+                                            <td class="align-middle">
+                                                <span>@item.Category.Category</span>
+                                            </td>
+                                            <td>
+                                                    <a asp-action="Edit" class="btn btn-primary rounded-any" asp-route-id="@item.Id">Edit</a> |
+                                                    <a asp-action="Details" class="btn btn-success rounded-any" asp-route-id="@item.Id">Details</a> |
+                                                    <a asp-action="Delete" class="btn btn-danger rounded-any" asp-route-id="@item.Id">Delete</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+</section>
+

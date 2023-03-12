@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIN+XPlK1bMTESthbNREKFatUMsEmwU0ecoFm7Z0eAkZp8jGPBnGwCVfX/EtRM70vS7Qk7bsqL9rN51CUa72ww==",
+  "success": true,
+  "projectFilePath": "D:\\API_EcommerceITI\\API_Ecommerce\\API_Ecommerce.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\API_EcommerceITI\\API_Ecommerce\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

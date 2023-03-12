@@ -1,0 +1,66 @@
+﻿@model ToDoListProjectMVC.Models.Tasks
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row" style="margin-bottom:25px">
+    <div class="col-md-12">
+        <div class="htc__contact__form__wrap">
+            <h2 class="title__line--5">Tasks > Create New Task</h2>
+            <div class="contact-form-wrap">
+                <form asp-action="Create">
+                    <div class="single-contact-inner">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="single-contact-form">
+                            <div class="contact-box name">
+                                <label asp-for="Name" >Name*</label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="contact-box name">
+                                <label asp-for="Status" >Status*</label>
+                                <select asp-for="Status" class="form-control" asp-items="ViewBag.Status"></select>
+              
+                                <span asp-validation-for="Status" class="text-danger"></span>
+                            </div>
+                            <div class="contact-box name">
+                                <label asp-for="AssignDate">AssignDate*</label>
+                                <input asp-for="AssignDate" class="form-control" />
+                                <span asp-validation-for="AssignDate" class="text-danger"></span>
+                            </div>
+                            <div class="contact-box name">
+                                <label asp-for="OwnerId" >Owner*</label>
+                                <select asp-for="OwnerId" class="form-control" asp-items="ViewBag.OwnerId"></select>
+                            </div>
+                            <div class="contact-box name">
+                                <label asp-for="CategoryId" >Task Category*</label>
+                                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoryId"></select>
+                            </div>
+                        </div>
+                        <div class="single-contact-form">
+                            <div class="contact-box message">
+                                <label asp-for="Description">Description*</label>
+                                <textarea asp-for="Description" placeholder="Enter Your Description."></textarea>
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                            <div class="contact-btn" >
+                                <input type="submit" value="Create" style="margin-bottom:10px" class="btn btn-primary" />
+
+                                <div>
+                                    <a asp-action="Index" class="htc__btn btn--theme">Back to List</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

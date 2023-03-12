@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ToDoListProjectMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ToDoListProjectMVC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\core.css",
+      "PackagePath": "staticwebassets\\css\\core.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\plugins\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\animate-slider.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate-slider.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\fonts\\slickd41d.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slickd41d.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\shortcode\\default.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\default.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\shortcode\\footer.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\footer.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\shortcode\\header.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\header.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\shortcode\\shortcodes.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\shortcodes.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\shortcode\\slider.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\slider.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\images\\ToDo\\slider\\todotask1.png",
+      "PackagePath": "staticwebassets\\images\\ToDo\\slider\\todotask1.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\images\\ToDo\\slider\\todotask2.png",
+      "PackagePath": "staticwebassets\\images\\ToDo\\slider\\todotask2.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\images\\logo\\logoTodo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\logoTodo.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\vendor\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\ToDoListProjectMVC\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ToDoListProjectMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ToDoListProjectMVC.props",
+      "PackagePath": "build\\ToDoListProjectMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoListProjectMVC.props",
+      "PackagePath": "buildMultiTargeting\\ToDoListProjectMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ToDoListProjectMVC.props",
+      "PackagePath": "buildTransitive\\ToDoListProjectMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

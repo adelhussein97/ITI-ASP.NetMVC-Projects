@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\WebApplication1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Author/DeleteAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERlbGV0ZUF1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Author/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Author/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/ContactUs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/ContactUs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/ContactUs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/ContactUs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/ContactUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/TeamMembers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/TeamMembers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/TeamMembers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/TeamMembers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/TeamMembers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI Qena .Net Full Stack/13.ASP.Net Core/ASP.NET MVC/Task MVC Core/API_EcommerceITI/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

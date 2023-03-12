@@ -1,0 +1,793 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LibraryBooksMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryBooksMVC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\icon\\Twitter.png",
+      "PackagePath": "staticwebassets\\icon\\Twitter.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\icon\\facebook.png",
+      "PackagePath": "staticwebassets\\icon\\facebook.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\icon\\instagram.png",
+      "PackagePath": "staticwebassets\\icon\\instagram.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\icon\\linkedin.png",
+      "PackagePath": "staticwebassets\\icon\\linkedin.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-3.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-4.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-5.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-6.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-7.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Author\\member-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Author\\member-8.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Book\\book-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Book\\book-1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Book\\book-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Book\\book-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\Library-.jpg",
+      "PackagePath": "staticwebassets\\images\\Library-.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\book-1.jpg",
+      "PackagePath": "staticwebassets\\images\\book-1.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\book-2.jpg",
+      "PackagePath": "staticwebassets\\images\\book-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\search_icon.png",
+      "PackagePath": "staticwebassets\\images\\search_icon.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\images\\top-icon.png",
+      "PackagePath": "staticwebassets\\images\\top-icon.png"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\twitter-bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\WebApplication1\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LibraryBooksMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LibraryBooksMVC.props",
+      "PackagePath": "build\\LibraryBooksMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryBooksMVC.props",
+      "PackagePath": "buildMultiTargeting\\LibraryBooksMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LibraryBooksMVC.props",
+      "PackagePath": "buildTransitive\\LibraryBooksMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

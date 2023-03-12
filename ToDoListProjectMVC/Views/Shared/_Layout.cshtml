@@ -1,0 +1,209 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>TO Do List Tasks </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" type="~/image/x-icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="~/apple-touch-icon.png">
+    <!-- All css files are included here. -->
+    <!-- Bootstrap fremwork main css -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- Owl Carousel  main css -->
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+    <!-- This core.css file contents all plugings css file. -->
+    <link rel="stylesheet" href="~/css/core.css">
+    <!-- Theme shortcodes/elements style -->
+    <link rel="stylesheet" href="~/css/shortcode/shortcodes.css">
+    <!-- Theme main style -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <!-- User style -->
+    <link rel="stylesheet" href="~/css/custom.css">
+    <!-- Modernizr JS -->
+    <script src="~/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+
+<body>
+  
+    <!-- Body main wrapper start -->
+    <div class="wrapper">
+        <!-- Start Header Style -->
+        <div id="header" class="htc-header">
+            <!-- Start Header Top -->
+            <div class="htc__header__top bg__cat--1">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
+                            <ul class="heaher__top__left">
+                                <li><i class="fa fa-clock-o"></i>09.30 AM  -  9.30 PM</li>
+                                <li><a href="#"><i class="fa fa-phone"></i>(+20)  01009654098</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
+                            <div class="header__top__right">
+                                <ul class="login-register">
+                                    <li><a href="login-register.html">LOGIN</a></li>
+                                    <li class="separator">/</li>
+                                    <li><a href="login-register.html">REGISTER</a></li>
+                                </ul>
+                                <div class="heaher__top__btn">
+                                    <a asp-controller="Tasks" asp-action="Create">Create Task</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Header Top -->
+            <!-- Start Mainmenu Area -->
+            <div id="sticky-header-with-topbar" class="mainmenu__wrap sticky__header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-2 col-sm-6 col-xs-7">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="~/images/logo/logoTodo.jpg" style="max-width:50%; border-radius:50%" alt="logo image">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-6 col-xs-5">
+                            <nav class="main__menu__nav  hidden-xs hidden-sm">
+                                <ul class="main__menu">
+                                    <li class="drop"><a href="/Home/Index">HOME</a>
+                                        
+                                    </li>
+                                    <li><a href="/Tasks/Index">Tasks</a></li>
+                                    <li><a href="/TaskCategories/Index">Task Category</a></li>
+                                    <li class="drop"><a href="/Users/Index">Users</a>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </nav>
+                           
+                        </div>
+                        <div class="col-md-2 col-sm-6 hidden-xs">
+                            <div class="htc__header__search">
+                                <input type="text" placeholder="SEARCH">
+                                <a href="#"><i class="fa fa-search"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mobile-menu-area"></div>
+                </div>
+            </div>
+            <!-- End Mainmenu Area -->
+        </div>
+        <div class="container" style="margin-top:20px; margin-bottom:20px">
+            <main role="main">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+        <!-- Start Footer Area -->
+         <div class="footer__top ptb--130" data--1f2d30__overlay="9.5" style="background: rgba(0, 0, 0, 0) url(images/bg/2.jpg) no-repeat fixed center center / cover ;">
+                <div class="container">
+                    <div class="row">
+                        <div class="htc__footer__wrap clearfix">
+                            <!-- Start Single Footer -->
+                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                                <div class="footer foo">
+                                    <div class="footer__widget">
+                                        <h2 class="ft__title">ABOUT</h2>
+                                    </div>
+                                    <div class="ft__details">
+                                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Footer -->
+                            <!-- Start Single Footer -->
+                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12 xmt-40">
+                                <div class="footer quick__link foo">
+                                    <div class="footer__widget">
+                                        <h2 class="ft__title">QUICK LINKS</h2>
+                                    </div>
+                                    <div class="footer__link">
+                                        <ul class="ft__menu">
+                                            <li><a href="service.html">Services</a></li>
+                                            <li><a href="projects-one.html">Projects</a></li>
+                                            <li><a href="#">Features</a></li>
+                                            <li><a href="blog.html">blog</a></li>
+                                        </ul>
+                                        <ul class="ft__menu">
+                                            <li><a href="#">Quote</a></li>
+                                            <li><a href="projects-one.html">Projects</a></li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="#">Features</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Footer -->
+                           
+                            <!-- Start Single Footer -->
+                            <div class="col-md-3 col-lg-2 col-lg-offset-1 col-sm-6 col-xs-12 smt-40 xmt-40">
+                                <div class="footer foo">
+                                    <div class="footer__widget">
+                                        <h2 class="ft__title">INQUARY</h2>
+                                        <div class="footer__link">
+                                            <ul class="ft__menu">
+                                                <li><a href="#">Construction</a></li>
+                                                <li><a href="#">Architecture</a></li>
+                                                <li><a href="#">Plambing</a></li>
+                                                <li><a href="#">Plambing</a></li>
+                                            </ul>
+                                            <ul class="ft__menu">
+                                                <li><a href="#">Painting</a></li>
+                                                <li><a href="#">Roofing</a></li>
+                                                <li><a href="#">Plambing</a></li>
+                                                <li><a href="#">Features</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Footer -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <footer class="htc__footer__area">
+            <div class="copyright bg__theme">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="copyright__inner">
+                                <p>
+                                    Copyright <a href="#" target="_blank">Adel Hussein</a>
+                                    All Rights Reserved 2023
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer Area -->
+        <script src="~/js/vendor/jquery-1.12.0.min.js"></script>
+        <!-- Bootstrap framework js -->
+        <script src="~/js/bootstrap.min.js"></script>
+        <!-- All js plugins included in this file. -->
+        <script src="~/js/plugins.js"></script>
+        <script src="~/js/slick.min.js"></script>
+        <script src="~/js/owl.carousel.min.js"></script>
+        <!-- Waypoints.min.js. -->
+        <script src="~/js/waypoints.min.js"></script>
+        <!-- Main js file that contents all jQuery plugins activation. -->
+        <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

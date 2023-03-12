@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ToDoListProjectMVC.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Home > Users</h2>
+
+<div class="card-footer text-end p-3 mb-4">
+    <a asp-action="Create" class="htc__btn btn--theme">Create New User</a>
+</div>
+<table class="table " style="margin-top:15px">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                    <a asp-action="Edit" class="btn btn-primary rounded-any" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" class="btn btn-success rounded-any" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" class="btn btn-danger rounded-any" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

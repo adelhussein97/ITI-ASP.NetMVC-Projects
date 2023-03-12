@@ -1,0 +1,140 @@
+/*-----------------------------------------------------------------------------------
+
+  Template Name: Simply Construction HTML Template.
+  Template URI: #
+  Description: Simply Construction is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: DevItems
+  Version: 1.0
+-----------------------------------------------------------------------------------*/
+/*
+
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+
+*/
+.slider-area > img {
+  height: 100vh;
+  width: 100%;
+}
+
+.slider__bg--1 {
+  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/1.jpg") no-repeat scroll 0 0 / cover ;
+}
+
+.slider__bg--2 {
+  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/2.jpg") no-repeat scroll 0 0 / cover ;
+}
+
+/*-----------------------------------------
+  Background variation Content
+-------------------------------------------*/
+
+
+.slider__fixed--height {
+  height: 830px;
+}
+
+.slide__align--center {
+  align-items: center;
+  display: flex;
+}
+.slider__inner{
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+
+.slider__inner h4 {
+    color: #fdfdfd;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.slider__inner h1 {
+    color: #fdfdfd;
+    font-size: 66px;
+    font-weight: 800;
+    line-height: 55px;
+    margin-top: 24px;
+}
+.slider__inner p {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 23px auto auto;
+    width: 57%;
+}
+.slider__btn {
+    margin-top: 40px;
+}
+.htc__btn {
+    background: #fcc236 none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 25px;
+    transition: 0.5s;
+    border: 1px solid #fcc236;
+}
+.htc__btn:hover{
+    border: 1px solid #fcc236;
+    background: transparent;
+    color:#fcc236;
+}
+
+
+.htc__slider__fornt__img {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+
+
+
+/*----------------------
+  Animation
+-------------------------*/
+.slider__activation__wrap {
+    position: relative;
+}
+.slider__activation__wrap .owl-nav div {
+    height: 54px;
+    left: 0;
+    line-height: 59px;
+    position: absolute;
+    top: 50%;
+    width: 35px;
+}
+
+.slider__activation__wrap .owl-nav div.owl-next {
+    left: auto;
+    right: 0;
+}
+.slider__activation__wrap .owl-nav div i {
+    color: #fff;
+    font-size: 30px;
+}
+.slider__activation__wrap.owl-theme .owl-nav [class*="owl-"] {
+    background: #1f2d30 none repeat scroll 0 0;
+    transition: 0.5s;
+}
+
+.slider__activation__wrap.owl-theme .owl-nav [class*="owl-"]:hover {
+    background: rgba(184, 144, 37, 0.6) none repeat scroll 0 0;
+}
+
+
+
+.slider__activation__wrap.owl-theme .owl-nav {
+  margin-top: 0;
+}
+

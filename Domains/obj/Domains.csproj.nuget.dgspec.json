@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\Domains\\Domains.csproj": {}
+    "D:\\API_EcommerceITI\\Domains\\Domains.csproj": {}
   },
   "projects": {
-    "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\Domains\\Domains.csproj": {
+    "D:\\API_EcommerceITI\\Domains\\Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\Domains\\Domains.csproj",
+        "projectUniqueName": "D:\\API_EcommerceITI\\Domains\\Domains.csproj",
         "projectName": "Domains",
-        "projectPath": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\Domains\\Domains.csproj",
+        "projectPath": "D:\\API_EcommerceITI\\Domains\\Domains.csproj",
         "packagesPath": "C:\\Users\\odoo\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI Qena .Net Full Stack\\13.ASP.Net Core\\ASP.NET MVC\\Task MVC Core\\API_EcommerceITI\\Domains\\obj\\",
+        "outputPath": "D:\\API_EcommerceITI\\Domains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,938 @@
+/*-----------------------------------------------------------------------------------
+
+  Template Name: Simply Construction HTML Template.
+  Template URI: #
+  Description: Simply Construction is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: DevItems
+  Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+
+/* Large screen desktop */
+@media (min-width: 1366px) and (max-width: 1500px){
+
+
+}
+
+@media (min-width: 1170px) and (max-width: 1500px){
+
+.project__hover__info::before {
+  bottom: 30px;
+  left: 25px;
+  right: 25px;
+  top: 30px;
+}
+.project__action h2 {
+  font-size: 18px;
+}
+.project__action h4 {
+  margin-top: 11px;
+}
+.container-fluid .section__title p {
+  width: 48%;
+}
+.newsletter__thumb {
+  right: 0;
+  width: 24%;
+}
+.htc__offer__2 .htc__offer__thumb {
+  width: 49%;
+}
+.htc__offer__2 .htc__offer__container .offer + .offer {
+  margin-top: 25px;
+}
+.htc__offer__2 .htc__offer__container {
+  padding: 46px 0;
+}
+.htc__mission__container {
+  padding: 58px 0;
+}
+.htc__mission__container .single__mission + .single__mission {
+  margin-top: 30px;
+}
+.htc__offer__thumb {
+  max-width: 52%;
+}
+.slider__fixed--height {
+  height: 645px;
+}
+.text__shape {
+  left: 12px;
+}
+.text__shape h2 {
+  font-size: 60px;
+  letter-spacing: 5px;
+}
+.service--2 .container-fluid .section__title p {
+  width: 100%;
+}
+.service--2 .section__title.text-left {
+  margin-bottom: 20px;
+}
+.service--2 .container-fluid .section__title p {
+  margin-top: 11px;
+}
+.h1__countdown .htc__callto__action p {
+  width: 93%;
+}
+.h1__countdown .htc__callto__action {
+  padding-bottom: 20px;
+  padding-top: 25px;
+}
+.h1__countdown .htc__call__btn {
+  margin-top: 18px;
+}
+.h1__countdown .htc__counterup__wrap {
+  height: 112px;
+}
+.h1__countdown .htc__callto__action h2 {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+.htc__offer--2 .h1__offer__image {
+  right: 0;
+  top: -29%;
+  width: 25%;
+}
+.h1__countdown .htc__counterup__wrap {
+  padding: 0px;
+}
+.h1__service {
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+}
+
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+
+.container-fluid .section__title p {
+  width: 52%;
+}
+.blog__meta {
+  padding: 0 14px;
+}
+.blog__hover__info {
+  padding: 0 13px;
+}
+.blog__details h2 {
+  font-size: 15px;
+}
+.htc__offer__2 .htc__offer__container .offer + .offer {
+  margin-top: 26px;
+}
+.htc__offer__2 .htc__offer__container {
+  padding: 50px 0;
+}
+.project__hover__info::before {
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  top: 10px;
+}
+.footer.quick__link {
+  left: 0;
+}
+.htc__category {
+  padding: 40px 30px;
+}
+.post__thumb {
+  margin-right: 11px;
+  min-width: 57px;
+}
+.htc__address__container .ct__address + .ct__address {
+  margin-left: 40px;
+}
+.pro__dtl__inner {
+  padding: 70px 22px;
+}
+.pro__dtl__list.font__bold {
+  padding-right: 10px;
+}
+.htc__offer--2 .h1__offer__image {
+  top: -22%;
+  width: 28%;
+}
+.text__shape,
+.htc__offer__thumb ,
+.newsletter__thumb{
+  display: none;
+}
+.htc__service__area.service--2 .container-fluid .section__title p {
+  width: 100%;
+}
+.service--2 .service__section__wrap,
+.htc__counterup__area .row {
+  align-items: center;
+  display: flex;
+}
+.h1__countdown .htc__callto__action h2 {
+  font-size: 30px;
+}
+.h1__countdown .htc__counterup__wrap {
+  height: 77px;
+}
+.h1__countdown .htc__callto__action {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.h1__countdown .htc__counterup__wrap {
+  padding: 0px;
+}
+
+.h1__project .project__action h2 {
+  font-size: 16px;
+}
+.section__title p {
+  width: 54%;
+}
+.slider__fixed--height {
+  height: 650px;
+}
+.slider__inner p {
+  width: 51%;
+}
+.ht__offr--3 .htc__offer__container {
+  padding: 100px 0;
+}
+.ht__offr--3 .htc__offer__container .offer + .offer {
+  margin-top: 0;
+}
+.htc__offer__container {
+  display: flex;
+  justify-content: space-between;
+}
+.testimonial__2 .htc__testimonial__wrap .slick-dots {
+  bottom: -90px;
+}
+.testimonial__activation--2 .testimonial__details p {
+  font-size: 13px;
+}
+.tes__icon i {
+  margin-bottom: 0px;
+}
+.testimonial__2 .testimonial__details h2 {
+  margin-top: 8px;
+}
+.single__cl__form input {
+  margin: 0 7px;
+}
+.single__cl__form {
+  margin-left: -7px;
+  margin-right: -7px;
+}
+.count--2 .fact__count span.count {
+  font-size: 25px;
+}
+.count--2 .fact__title h2 {
+  font-size: 14px;
+}
+.service__section__wrap .service__thumb {
+  margin-left: 0;
+}
+.service--2 .container-fluid{
+    padding-left: 0;
+    padding-right: 30px;
+}
+.counterup__left__thumb{
+  padding-right: 0;
+
+}
+.ptb--150, .ptb--130{
+  padding: 80px 0;
+}
+.pt--150 {
+  padding-top: 80px;
+}
+.h1__countdown .htc__callto__action {
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+.htc__service__area.service--2.bg__gray {
+  background: #fff none repeat scroll 0 0;
+  padding: 30px 0;
+}
+.h1__service.pt--40.pb--30 {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.htc__brand__area {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+.main__menu > li > a {
+  height: 110px;
+  line-height: 110px;
+}
+.logo {
+  height: 110px;
+  line-height: 110px;
+}
+.htc__header__search {
+  height: 110px;
+}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+/*------------------
+ Padding Top
+-----------------*/
+.smt-40{
+  margin-top: 40px;
+}
+.mean-container .mean-nav,
+.sticky__header.scroll-header .mean-container .mean-nav {
+  margin-top: 0;
+}
+.container-fluid .section__title p {
+  width: 69%;
+}
+.htc__header__search {
+  margin-right: 109px;
+}
+.slider__inner p {
+  width: 91%;
+}
+.section__title p {
+  width: 69%;
+}
+.ht__address__icon {
+  margin-right: 14px;
+}
+.ht__address__details p {
+  font-size: 13px;
+}
+.htc__offer__2 .htc__offer__thumb {
+  position: inherit;
+  top: auto;
+  width: 100%;
+  margin-bottom: 30px;
+  bottom: 0;
+}
+.testimonial__2 .htc__testimonial__wrap .slick-dots {
+  bottom: -56px;
+  left: 0;
+}
+.footer.quick__link {
+  left: 0;
+}
+.sticky__header.scroll-header .mean-container a.meanmenu-reveal {
+  margin-top: -53px;
+}
+.testimonial__thumb {
+  min-width: 24%;
+}
+.htc__testimonial__wrap .slick-dots {
+  bottom: -7px;
+  right: 120px;
+}
+.footer.quick__link {
+  left: 0;
+}
+.project__hover__info::before {
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  top: 10px;
+}
+.offer__details p {
+  font-size: 13px;
+}
+.offer__icon {
+  margin-right: 10px;
+}
+.brocure__list {
+  text-align: center;
+}
+.tag__list li a {
+  padding: 0 40px;
+}
+.blog--two .blog__hover__info {
+  padding: 0 20px;
+}
+.ct__address__icon {
+  margin-right: 7px;
+}
+.htc__address__container .ct__address + .ct__address {
+  margin-left: 20px;
+}
+.ct__details p {
+  font-size: 13px;
+}
+.single__project__rightsidebar {
+  margin-top: 30px;
+}
+.newsletter__thumb,
+.text__shape {
+  display: none;
+}
+.h1__countdown .htc__callto__action h2 {
+  font-size: 40px;
+}
+.h1__countdown .htc__callto__action {
+  padding-bottom: 50px;
+  padding-top: 40px;
+}
+.h1__countdown .htc__counterup__wrap {
+  height: 98px;
+}
+.htc__offer--2 .h1__offer__image {
+  top: -10%;
+  width: 30%;
+}
+.h1__countdown .htc__counterup__wrap {
+  padding: 0px;
+}
+.blog--details .htc__bl__dtl__inner {
+    padding-right: 0px;
+}
+.about__inner {
+  padding: 60px 21px 22px;
+}
+.slider__fixed--height {
+  height: 680px;
+}
+.service__thumb img,
+.counterup__left__thumb img {
+  width: 100%;
+}
+.counterup__left__thumb {
+  margin-right: 0;
+  margin-left: 0px;
+}
+.main__menu > li > a {
+  height: 80px;
+  line-height: 80px;
+}
+.logo {
+  height: 80px;
+  line-height: 80px;
+}
+.htc__header__search {
+  height: 80px;
+}
+.mean-container a.meanmenu-reveal {
+  margin-top: -57px;
+}
+.slider__fixed--height {
+  height: 560px;
+}
+.about__inner.about__hober__info.active {
+  transform: scaleY(0);
+}
+.about:hover .about__inner.about__hober__info {
+  transform: scaleY(0);
+}
+.about {
+  padding-bottom: 0;
+  padding-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.service--2 .container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+.counterup__left__thumb{
+  padding-right: 0;
+
+}
+.service__section__wrap .service__thumb {
+  margin-left: 0;
+  padding: 0;
+}
+.ptb--150, .ptb--130{
+  padding: 80px 0;
+}
+.pt--150 {
+  padding-top: 80px;
+}
+.h1__countdown .htc__callto__action {
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+.htc__service__area.service--2.bg__gray {
+  background: #fff none repeat scroll 0 0;
+  padding: 30px 0;
+}
+.h1__service.pt--40.pb--30 {
+  padding: 50px 40px 0;
+}
+.htc__brand__area {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+.single__project__details p {
+  font-size: 13px;
+}
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  
+.container {width:300px}
+
+
+/*------------------
+ Padding Top
+-----------------*/
+.xmt-40{
+  margin-top: 40px;
+}
+.xmt-20{
+  margin-top: 20px;
+}
+.xmt__40{
+  margin-top: -40px !important;
+}
+.prodict-det-small li {
+  width: 50%;
+}
+.prodict-det-small {
+  flex-flow: row wrap;
+}
+.service,
+.htc__counterup__wrap .funfact + .funfact,
+.reguest__quote,
+.testimonial__details,
+.ht__address__inner,
+.single__form ,
+.htc__address__container .ct__address + .ct__address,
+.contact-box.message,
+.single__project__rightsidebar,
+.rl__project,
+.htc__ser__dtl__inner .htc__ser__dtl + .htc__ser__dtl{
+    margin-top: 30px;
+}
+.slider__inner p,
+.section__title p,
+.container-fluid .section__title p ,
+.single-contact-form,
+.team__thumb img,
+.single__project__details,
+.htc__ser__dtl__inner .htc__ser__dtl,
+.news__input,
+.service--2 .container-fluid .section__title p,
+.counterup__left__thumb img,
+.h1__countdown .htc__callto__action p{
+  width: 100%;
+}
+.sticky__header.scroll-header .mean-container .mean-nav,
+.mean-container .mean-nav {
+  margin-top: 0;
+}
+.htc__blog__details__page .blog__hover__info,
+.blog--one .blog__hover__info,
+.blog--two .blog__hover__info,
+.single-contact-form,
+.htc__ser__dtl__inner .htc__ser__dtl,
+.h1__countdown .htc__counterup__wrap {
+  padding: 0;
+}
+.header__top__right,
+.heaher__top__left {
+  justify-content: center;
+}
+.bl__comment__meta,
+.bl__form__inner,
+.htc__contact__wrap,
+.htc__counterup__wrap,
+.brand__list,
+.single__cl__form,
+.htc__address__container,
+.single-contact-inner,
+.htc__pro__desc__container,
+.htc__ser__dtl__inner {
+  display: block;
+}
+.htc__address__container .ct__address + .ct__address ,
+.single-contact-inner,
+.htc__pro__desc__container,
+.htc__ser__dtl__inner{
+  margin-left: 0;
+}
+.single-contact-inner,
+.htc__pro__desc__container,
+.htc__ser__dtl__inner {
+  margin-right: 0;
+}
+.htc__testimonial__wrap {
+  margin-bottom: 30px;
+}
+.newsletter__thumb,
+.text__shape,
+.htc__offer--2 .h1__offer__image,
+.slider__activation__wrap.owl-theme .owl-nav {
+  display: none;
+}
+.counterup__left__thumb {
+  margin-left: 0;
+  margin-right: 0;
+}
+.heaher__top__left li + li {
+  margin-left: 10px;
+}
+.login-register {
+  margin-right: 25px;
+}
+.slider__inner h1 {
+  font-size: 49px;
+  line-height: 60px;
+}
+.slider__fixed--height {
+  height: 100vh;
+}
+.project__hover__info::before {
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  top: 10px;
+}
+.callto__action__wrap h2 {
+  font-size: 23px;
+  line-height: 34px;
+}
+.callto__action__wrap {
+  display: block;
+  height: auto;
+  padding: 50px 0;
+}
+.callto__action__btn {
+  margin-top: 14px;
+}
+.testimonial {
+  display: block !important;
+}
+.htc__testimonial__wrap .slick-dots {
+  bottom: -39px;
+  right: 107px;
+}
+.section__title h2.title__line {
+  font-size: 25px;
+}
+.single__cl__form input {
+  margin: 0;
+  width: 100%;
+}
+.single__cl__form {
+  margin-left: 0;
+  margin-right: 0;
+}
+.single__cl__form input + input {
+  margin-top: 20px;
+}
+.blog__hover__info {
+  padding: 0;
+}
+.blog__meta {
+  border-radius: 0;
+  padding: 0 14px;
+}
+.blog__details h2 {
+  font-size: 14px;
+  margin-top: 14px;
+}
+.offer__details p {
+  font-size: 13px;
+}
+.offer__details p {
+  padding-right: 0;
+}
+.htc__counterup__wrap {
+  text-align: center;
+}
+.offer.separator::before {
+  display: none;
+}
+.testimonial__2 .htc__testimonial__wrap .slick-dots {
+  bottom: -50px;
+  left: 0;
+}
+.footer.quick__link {
+  left: 0;
+}
+.brand__list {
+  text-align: center;
+}
+.brand__list li + li {
+  margin-top: 20px;
+}
+.htc__offer__2 .htc__offer__thumb {
+  position: inherit;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.sticky__header.scroll-header .mean-container a.meanmenu-reveal {
+  margin-top: -54px;
+}
+.testimonial__thumb {
+  margin-right: 0;
+  min-width: 100%;
+}
+.slider__inner p {
+  font-size: 14px;
+  line-height: 24px;
+  margin: 9px auto auto;
+}
+.about {
+  margin-top: 40px;
+}
+.footer.quick__link {
+  left: 0;
+}
+.htc__contact__address--2 .htc__contact__wrap {
+  padding: 0 16px;
+}
+.htc__contact__address--2 {
+  right: 0;
+}
+.htc__bst__construc .section__title h2.title__line {
+  font-size: 18px;
+}
+.htc__mission__area .htc__offer__thumb {
+  bottom: 0;
+  position: inherit;
+  top: auto;
+}
+.ht__address__details p {
+  font-size: 14px;
+}
+.htc__blog__details__page .blog__meta {
+  padding: 0 10px;
+}
+blockquote {
+  font-size: 14px;
+  line-height: 26px;
+  margin: 30px 0;
+  padding: 20px;
+}
+.bl__comment__meta span {
+  display: inline-block;
+  margin: 7px 0 0;
+}
+.bl__comment__thumb {
+  margin-right: 12px;
+}
+.single__comment.reply {
+  margin-bottom: 40px;
+  margin-left: 0;
+  margin-top: 40px;
+}
+.single__form {
+  margin: 0;
+  width: 100%;
+}
+.bl__form__inner {
+  margin-left: 0;
+  margin-right: 0;
+}
+.single__project__details {
+  margin: 0;
+  margin-top: 30px;
+}
+.pro__dtl__inner h2 {
+  font-size: 21px;
+  margin-bottom: 23px;
+}
+.pro__dtl__inner {
+  padding: 70px 13px;
+}
+.pro__dtl__list.font__bold {
+  padding-right: 6px;
+}
+.facts__list li a {
+  font-size: 13px;
+}
+.clearfix.subscribe__btn {
+  bottom: -52px;
+  left: 0;
+  right: auto;
+}
+.newsletter__form {
+  width: 256px;
+}
+.newsletter__wrap h2 {
+  line-height: 34px;
+}
+.h1__countdown .htc__callto__action h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+.h1__countdown .htc__counterup__wrap {
+  height: 405px;
+  padding-top: 35px;
+}
+.blog--details .htc__bl__dtl__inner {
+    padding-right: 0px;
+}
+.h1__project .project__action h2 {
+  font-size: 17px;
+}
+.slider__fixed--height {
+  height: auto;
+}
+.slide__align--center {
+  padding: 100px 0;
+}
+.htc__testimonial__left h2.title__line {
+  font-size: 25px;
+}
+
+.main__menu > li > a {
+  height: 80px;
+  line-height: 80px;
+}
+.logo {
+  height: 80px;
+  line-height: 80px;
+}
+.htc__header__search {
+  height: 80px;
+}
+.mean-container a.meanmenu-reveal {
+  margin-top: -57px;
+}
+.slider__fixed--height {
+  height: 560px;
+}
+.about__inner.about__hober__info.active {
+  transform: scaleY(0);
+}
+.about:hover .about__inner.about__hober__info {
+  transform: scaleY(0);
+}
+.about {
+  padding-bottom: 0;
+  padding-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.service--2 .container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+.counterup__left__thumb{
+  padding-right: 0;
+
+}
+.service__section__wrap .service__thumb {
+  margin-left: 0;
+  padding: 0;
+}
+.ptb--150, .ptb--130{
+  padding: 80px 0;
+}
+.pt--150 {
+  padding-top: 80px;
+}
+.h1__countdown .htc__callto__action {
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+.htc__service__area.service--2.bg__gray {
+  background: #fff none repeat scroll 0 0;
+  padding: 30px 0;
+}
+.h1__service.pt--40.pb--30 {
+  padding: 50px 40px 0;
+}
+.htc__brand__area {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+.slider__fixed--height {
+  height: 400px;
+  padding: 0;
+}
+.slider__inner h1 {
+  font-size: 30px;
+  line-height: 30px;
+  margin-top: 10px;
+}
+.slider__inner h4 {
+  font-size: 20px;
+  line-height: 24px;
+}
+.h1__countdown .htc__counterup__wrap {
+  height: auto;
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+.funfact {
+  padding: 20px 0;
+}
+.news__input input {
+  padding-bottom: 7px;
+  padding-top: 7px;
+  text-align: center;
+}
+.clearfix.subscribe__btn {
+  float: none;
+  left: 0;
+  margin: 0;
+  right: 0;
+  text-align: center;
+}
+.htc__offer__area.htc__offer--2 {
+  padding-top: 70px;
+}
+.htc__offer__area.htc__offer--2.pb--120 {
+  padding-bottom: 60px;
+}
+.htc__contact__address.bg__cat--1 {
+  padding-bottom: 0;
+}
+.header__top__right, .heaher__top__left {
+  justify-content: space-between;
+}
+.heaher__top__left {
+  display: none;
+}
+.service__section__wrap .service__thumb img {
+  width: 100%;
+}
+.single__form.message{
+  margin-top: 20px;
+}
+.project__action h2 {
+  font-size: 17px;
+}
+.htc__contact__address.add-res.bg__cat--1 {
+  padding: 30px 0 60px;
+}
+.ptb--120 {
+  padding: 50px 0;
+}
+    
+    
+    
+
+}
+
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width: 90%}
+.htc__testimonial__wrap .slick-dots {
+  right: 182px;
+}
+.footer__top.ptb--130 {
+  padding: 50px 0;
+}
+
+}
+ 

@@ -10,3 +10,15 @@ E:\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.dll
 E:\API_EcommerceITI\Domains\obj\Debug\net7.0\refint\Domains.dll
 E:\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.pdb
 E:\API_EcommerceITI\Domains\obj\Debug\net7.0\ref\Domains.dll
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\bin\Debug\net7.0\Domains.deps.json
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\bin\Debug\net7.0\Domains.dll
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\bin\Debug\net7.0\Domains.pdb
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.dll
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\refint\Domains.dll
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\Domains.pdb
+E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Domains\obj\Debug\net7.0\ref\Domains.dll

@@ -1,0 +1,54 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+<<<<<<< Updated upstream
+      "launchUrl": "weatherforecast",
+      "applicationUrl": "http://localhost:5280",
+=======
+      "launchUrl": "swagger",
+>>>>>>> Stashed changes
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5280"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+<<<<<<< Updated upstream
+      "launchUrl": "weatherforecast",
+=======
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Dolla": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+>>>>>>> Stashed changes
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5280"
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:14808/",
+      "sslPort": 44301
+    }
+  }
+<<<<<<< Updated upstream
+}
+=======
+}
+>>>>>>> Stashed changes
