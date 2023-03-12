@@ -4,7 +4,6 @@ using Application.Contract;
 using Domains;
 using ECommerceDbContext;
 using Microsoft.EntityFrameworkCore;
-using System.Linq;
 
 namespace Infrastructure
 {

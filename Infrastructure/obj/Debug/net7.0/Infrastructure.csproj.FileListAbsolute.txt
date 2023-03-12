@@ -19,24 +19,3 @@ E:\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\ECommerceDbContext.pdb
 E:\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\APIDTO.pdb
 E:\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Domains.pdb
 E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\APIDTO.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Application.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Domains.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\ECommerceDbContext.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Application.pdb
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\ECommerceDbContext.pdb
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\APIDTO.pdb
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Domains.pdb
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
-E:\ITI Qena .Net Full Stack\13.ASP.Net Core\ASP.NET MVC\Task MVC Core\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
