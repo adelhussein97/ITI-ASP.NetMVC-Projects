@@ -1,0 +1,12 @@
+E:\API_EcommerceITI\APIDTO\bin\Debug\net7.0\APIDTO.deps.json
+E:\API_EcommerceITI\APIDTO\bin\Debug\net7.0\APIDTO.dll
+E:\API_EcommerceITI\APIDTO\bin\Debug\net7.0\APIDTO.pdb
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.csproj.AssemblyReference.cache
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.AssemblyInfoInputs.cache
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.AssemblyInfo.cs
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.csproj.CoreCompileInputs.cache
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.dll
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\refint\APIDTO.dll
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\APIDTO.pdb
+E:\API_EcommerceITI\APIDTO\obj\Debug\net7.0\ref\APIDTO.dll
